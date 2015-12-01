@@ -1,5 +1,5 @@
-# Silvia Brown's Portfolio
-A responsive version of MoMA’s homepage.
+# MoMA's Mobile Homepage
+An updated version of MoMA’s homepage for mobile devices.
 
 ## General Approach
 ###### Preparation:
